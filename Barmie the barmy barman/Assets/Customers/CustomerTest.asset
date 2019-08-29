@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4940219275d97a241b83a647cda0c900, type: 3}
-  m_Name: Data0
+  m_Script: {fileID: 11500000, guid: a63e1170c1bbf734fa29ec1545778c33, type: 3}
+  m_Name: CustomerTest
   m_EditorClassIdentifier: 
-  objectName: New ScriptableObject
-  colorIsRandom: 0
-  thisColor: {r: 1, g: 1, b: 1, a: 1}
-  spawnPoints: []
+  customerName: CustomerLambda
+  customerSprite: {fileID: 21300000, guid: b0ea8d1c6fbc2524e9cb7af7d0d2705a, type: 3}
+  introduction:
+  - Hello there !
